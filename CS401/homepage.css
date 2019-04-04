@@ -1,0 +1,40 @@
+
+section {
+  border-left: 6px solid blue;
+  background-color: lightgrey;
+}
+#advertisement{
+  border: 1px solid black;
+}
+img{
+  width: 100%;
+  height: 100%;
+}
+#footer{
+  margin-left: 30%;
+}
+.recent li{
+  border-style: groove;
+  list-style-type: none;
+  width: 25%;
+  height: 30%;
+  margin-left: 3%;
+  margin-top: 1.5%;
+  margin-bottom: 1.5%;
+  float:left;
+}
+.recent {
+  width: 100%;
+  height: 100%;
+  border: 1px solid black;
+  overflow: auto;
+}
+#images{
+  width: 100%;
+  height:80%;
+}
+.recent img{
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}

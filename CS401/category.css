@@ -1,0 +1,65 @@
+
+.row{
+  width:100%;
+  height: 100%;
+  overflow: auto;
+}
+.column {
+  float: left;
+}
+
+.left {
+  width: 19%;
+  border-right: 1px solid black;
+  padding-right: 5px;
+  height: 100%;
+}
+
+.right {
+  width: 100%;
+  height: 100%;
+  padding: 5px 5px;
+  border: 1px solid black
+  overflow:auto;
+}
+#refine{
+  font-size: 25px;
+  color: #6b6b6d;
+}
+p{
+  font-size: 20px;
+  color: #313133;
+}
+input[type=number]{
+  height: 25px;
+  font-size: 15px;
+}
+li{
+  list-style-type: none;
+}
+#footer{
+  margin-left: 30%;
+}
+.right li{
+  border-style: groove;
+  list-style-type: none;
+  width: 25%;
+  height: 30%;
+  margin-left: 3%;
+  margin-bottom: 1.5%;
+  margin-bottom: 1.5%;
+  float:left;
+}
+.right img{
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+section {
+  border-left: 6px solid blue;
+  background-color: lightgrey;
+}
+#images{
+  width: 100%;
+  height:80%;
+}

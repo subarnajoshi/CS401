@@ -1,0 +1,21 @@
+#footer{
+  margin-left: 30%;
+}
+h1{
+  margin-left: 40%;
+}
+
+#contact{
+  border-style: groove;
+  margin-left: 5%;
+  margin-right: 5%;
+  padding: 3% 3%;
+  background-color: #d2ddef;
+  background-image: url("contact.png");
+}
+#contact h2{
+  margin-left: 40%;
+}
+#contact p{
+  margin-left: 40%;
+}

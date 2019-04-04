@@ -1,0 +1,3705 @@
+now - INFO  --> creating User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - ERROR --> Dao::getConnection The database exploded PDOException Object
+(
+    [message:protected] => SQLSTATE[HY000] [2002] No such file or directory
+    [string:Exception:private] => 
+    [code:protected] => 2002
+    [file:protected] => /Users/subarna/Sites/CS401/Dao.php
+    [line:protected] => 16
+    [trace:Exception:private] => Array
+        (
+            [0] => Array
+                (
+                    [file] => /Users/subarna/Sites/CS401/Dao.php
+                    [line] => 16
+                    [function] => __construct
+                    [class] => PDO
+                    [type] => ->
+                    [args] => Array
+                        (
+                            [0] => mysql:host=localhost;dbname=bazzar
+                            [1] => subarna
+                            [2] => Sj@9845500150
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [file] => /Users/subarna/Sites/CS401/Dao.php
+                    [line] => 33
+                    [function] => getConnection
+                    [class] => Dao
+                    [type] => ->
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [file] => /Users/subarna/Sites/CS401/account_validation.php
+                    [line] => 22
+                    [function] => saveUser
+                    [class] => Dao
+                    [type] => ->
+                    [args] => Array
+                        (
+                            [0] => subarna
+                            [1] => joshi
+                            [2] => subarnajoshi@u.boisestate.edu
+                            [3] => test1
+                            [4] => test1
+                        )
+
+                )
+
+        )
+
+    [previous:Exception:private] => 
+    [errorInfo] => 
+)
+ 
+now - INFO  --> creating User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - ERROR --> Dao::getConnection The database exploded PDOException Object
+(
+    [message:protected] => SQLSTATE[HY000] [2002] No such file or directory
+    [string:Exception:private] => 
+    [code:protected] => 2002
+    [file:protected] => /Users/subarna/Sites/CS401/Dao.php
+    [line:protected] => 16
+    [trace:Exception:private] => Array
+        (
+            [0] => Array
+                (
+                    [file] => /Users/subarna/Sites/CS401/Dao.php
+                    [line] => 16
+                    [function] => __construct
+                    [class] => PDO
+                    [type] => ->
+                    [args] => Array
+                        (
+                            [0] => mysql:host=localhost;dbname=bazzar
+                            [1] => subarna
+                            [2] => Sj@9845500150
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [file] => /Users/subarna/Sites/CS401/Dao.php
+                    [line] => 33
+                    [function] => getConnection
+                    [class] => Dao
+                    [type] => ->
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [file] => /Users/subarna/Sites/CS401/account_validation.php
+                    [line] => 22
+                    [function] => saveUser
+                    [class] => Dao
+                    [type] => ->
+                    [args] => Array
+                        (
+                            [0] => subarna
+                            [1] => joshi
+                            [2] => subarnajoshi@u.boisestate.edu
+                            [3] => adsf
+                            [4] => adsf
+                        )
+
+                )
+
+        )
+
+    [previous:Exception:private] => 
+    [errorInfo] => 
+)
+ 
+now - INFO  --> creating User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - ERROR --> Dao::getConnection The database exploded PDOException Object
+(
+    [message:protected] => SQLSTATE[HY000] [2002] No such file or directory
+    [string:Exception:private] => 
+    [code:protected] => 2002
+    [file:protected] => /Users/subarna/Sites/CS401/Dao.php
+    [line:protected] => 16
+    [trace:Exception:private] => Array
+        (
+            [0] => Array
+                (
+                    [file] => /Users/subarna/Sites/CS401/Dao.php
+                    [line] => 16
+                    [function] => __construct
+                    [class] => PDO
+                    [type] => ->
+                    [args] => Array
+                        (
+                            [0] => mysql:host=localhost;dbname=bazzar
+                            [1] => subarna
+                            [2] => Sj@9845500150
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [file] => /Users/subarna/Sites/CS401/Dao.php
+                    [line] => 34
+                    [function] => getConnection
+                    [class] => Dao
+                    [type] => ->
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [file] => /Users/subarna/Sites/CS401/account_validation.php
+                    [line] => 22
+                    [function] => saveUser
+                    [class] => Dao
+                    [type] => ->
+                    [args] => Array
+                        (
+                            [0] => subarna
+                            [1] => joshi
+                            [2] => subarnajoshi@u.boisestate.edu
+                            [3] => adsf
+                            [4] => adsf
+                        )
+
+                )
+
+        )
+
+    [previous:Exception:private] => 
+    [errorInfo] => 
+)
+ 
+now - INFO  --> creating User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - ERROR --> Dao::getConnection The database exploded PDOException Object
+(
+    [message:protected] => SQLSTATE[HY000] [2002] No such file or directory
+    [string:Exception:private] => 
+    [code:protected] => 2002
+    [file:protected] => /Users/subarna/Sites/CS401/Dao.php
+    [line:protected] => 16
+    [trace:Exception:private] => Array
+        (
+            [0] => Array
+                (
+                    [file] => /Users/subarna/Sites/CS401/Dao.php
+                    [line] => 16
+                    [function] => __construct
+                    [class] => PDO
+                    [type] => ->
+                    [args] => Array
+                        (
+                            [0] => mysql:host=localhost;dbname=bazzar
+                            [1] => subarna
+                            [2] => Sj@9845500150
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [file] => /Users/subarna/Sites/CS401/Dao.php
+                    [line] => 34
+                    [function] => getConnection
+                    [class] => Dao
+                    [type] => ->
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [file] => /Users/subarna/Sites/CS401/account_validation.php
+                    [line] => 22
+                    [function] => saveUser
+                    [class] => Dao
+                    [type] => ->
+                    [args] => Array
+                        (
+                            [0] => subarna
+                            [1] => joshi
+                            [2] => subarnajoshi@u.boisestate.edu
+                            [3] => adsf
+                            [4] => adsf
+                        )
+
+                )
+
+        )
+
+    [previous:Exception:private] => 
+    [errorInfo] => 
+)
+ 
+now - INFO  --> creating User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - ERROR --> Dao::getConnection The database exploded PDOException Object
+(
+    [message:protected] => SQLSTATE[HY000] [2002] No such file or directory
+    [string:Exception:private] => 
+    [code:protected] => 2002
+    [file:protected] => /Users/subarna/Sites/CS401/Dao.php
+    [line:protected] => 16
+    [trace:Exception:private] => Array
+        (
+            [0] => Array
+                (
+                    [file] => /Users/subarna/Sites/CS401/Dao.php
+                    [line] => 16
+                    [function] => __construct
+                    [class] => PDO
+                    [type] => ->
+                    [args] => Array
+                        (
+                            [0] => mysql:host=localhost;dbname=bazzar
+                            [1] => subarna
+                            [2] => Sj@9845500150
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [file] => /Users/subarna/Sites/CS401/Dao.php
+                    [line] => 34
+                    [function] => getConnection
+                    [class] => Dao
+                    [type] => ->
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [file] => /Users/subarna/Sites/CS401/account_validation.php
+                    [line] => 22
+                    [function] => saveUser
+                    [class] => Dao
+                    [type] => ->
+                    [args] => Array
+                        (
+                            [0] => subarna
+                            [1] => joshi
+                            [2] => subarnajoshi@u.boisestate.edu
+                            [3] => adsf
+                            [4] => adsf
+                        )
+
+                )
+
+        )
+
+    [previous:Exception:private] => 
+    [errorInfo] => 
+)
+ 
+now - INFO  --> creating User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - ERROR --> Dao::getConnection The database exploded PDOException Object
+(
+    [message:protected] => SQLSTATE[HY000] [2002] No such file or directory
+    [string:Exception:private] => 
+    [code:protected] => 2002
+    [file:protected] => /Users/subarna/Sites/CS401/Dao.php
+    [line:protected] => 16
+    [trace:Exception:private] => Array
+        (
+            [0] => Array
+                (
+                    [file] => /Users/subarna/Sites/CS401/Dao.php
+                    [line] => 16
+                    [function] => __construct
+                    [class] => PDO
+                    [type] => ->
+                    [args] => Array
+                        (
+                            [0] => mysql:host=localhost;dbname=bazzar
+                            [1] => subarna
+                            [2] => Sj@9845500150
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [file] => /Users/subarna/Sites/CS401/Dao.php
+                    [line] => 34
+                    [function] => getConnection
+                    [class] => Dao
+                    [type] => ->
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [file] => /Users/subarna/Sites/CS401/account_validation.php
+                    [line] => 22
+                    [function] => saveUser
+                    [class] => Dao
+                    [type] => ->
+                    [args] => Array
+                        (
+                            [0] => subarna
+                            [1] => joshi
+                            [2] => subarnajoshi@u.boisestate.edu
+                            [3] => asd
+                            [4] => asd
+                        )
+
+                )
+
+        )
+
+    [previous:Exception:private] => 
+    [errorInfo] => 
+)
+ 
+now - INFO  --> creating User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - ERROR --> Dao::getConnection The database exploded PDOException Object
+(
+    [message:protected] => SQLSTATE[HY000] [2002] No such file or directory
+    [string:Exception:private] => 
+    [code:protected] => 2002
+    [file:protected] => /Users/subarna/Sites/CS401/Dao.php
+    [line:protected] => 16
+    [trace:Exception:private] => Array
+        (
+            [0] => Array
+                (
+                    [file] => /Users/subarna/Sites/CS401/Dao.php
+                    [line] => 16
+                    [function] => __construct
+                    [class] => PDO
+                    [type] => ->
+                    [args] => Array
+                        (
+                            [0] => mysql:host=localhost;dbname=bazzar
+                            [1] => subarna
+                            [2] => Sj@9845500150
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [file] => /Users/subarna/Sites/CS401/Dao.php
+                    [line] => 34
+                    [function] => getConnection
+                    [class] => Dao
+                    [type] => ->
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [file] => /Users/subarna/Sites/CS401/account_validation.php
+                    [line] => 22
+                    [function] => saveUser
+                    [class] => Dao
+                    [type] => ->
+                    [args] => Array
+                        (
+                            [0] => subarna
+                            [1] => joshi
+                            [2] => subarnajoshi@u.boisestate.edu
+                            [3] => ad
+                            [4] => 
+                        )
+
+                )
+
+        )
+
+    [previous:Exception:private] => 
+    [errorInfo] => 
+)
+ 
+now - INFO  --> creating User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - ERROR --> Dao::getConnection The database exploded PDOException Object
+(
+    [message:protected] => SQLSTATE[HY000] [2002] No such file or directory
+    [string:Exception:private] => 
+    [code:protected] => 2002
+    [file:protected] => /Users/subarna/Sites/CS401/Dao.php
+    [line:protected] => 16
+    [trace:Exception:private] => Array
+        (
+            [0] => Array
+                (
+                    [file] => /Users/subarna/Sites/CS401/Dao.php
+                    [line] => 16
+                    [function] => __construct
+                    [class] => PDO
+                    [type] => ->
+                    [args] => Array
+                        (
+                            [0] => mysql:host=localhost;dbname=bazzar
+                            [1] => subarna
+                            [2] => Sj@9845500150
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [file] => /Users/subarna/Sites/CS401/Dao.php
+                    [line] => 34
+                    [function] => getConnection
+                    [class] => Dao
+                    [type] => ->
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [file] => /Users/subarna/Sites/CS401/account_validation.php
+                    [line] => 22
+                    [function] => saveUser
+                    [class] => Dao
+                    [type] => ->
+                    [args] => Array
+                        (
+                            [0] => subarna
+                            [1] => joshi
+                            [2] => subarnajoshi@u.boisestate.edu
+                            [3] => as
+                            [4] => 
+                        )
+
+                )
+
+        )
+
+    [previous:Exception:private] => 
+    [errorInfo] => 
+)
+ 
+now - INFO  --> creating User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - ERROR --> Dao::getConnection The database exploded PDOException Object
+(
+    [message:protected] => SQLSTATE[HY000] [2002] No such file or directory
+    [string:Exception:private] => 
+    [code:protected] => 2002
+    [file:protected] => /Users/subarna/Sites/CS401/Dao.php
+    [line:protected] => 16
+    [trace:Exception:private] => Array
+        (
+            [0] => Array
+                (
+                    [file] => /Users/subarna/Sites/CS401/Dao.php
+                    [line] => 16
+                    [function] => __construct
+                    [class] => PDO
+                    [type] => ->
+                    [args] => Array
+                        (
+                            [0] => mysql:host=localhost;dbname=bazzar
+                            [1] => subarna
+                            [2] => Sj@9845500150
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [file] => /Users/subarna/Sites/CS401/Dao.php
+                    [line] => 34
+                    [function] => getConnection
+                    [class] => Dao
+                    [type] => ->
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [file] => /Users/subarna/Sites/CS401/account_validation.php
+                    [line] => 22
+                    [function] => saveUser
+                    [class] => Dao
+                    [type] => ->
+                    [args] => Array
+                        (
+                            [0] => subarna
+                            [1] => joshi
+                            [2] => subarnajoshi@u.boisestate.edu
+                            [3] => as
+                            [4] => 
+                        )
+
+                )
+
+        )
+
+    [previous:Exception:private] => 
+    [errorInfo] => 
+)
+ 
+now - INFO  --> creating User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - ERROR --> Dao::getConnection The database exploded PDOException Object
+(
+    [message:protected] => SQLSTATE[HY000] [2002] No such file or directory
+    [string:Exception:private] => 
+    [code:protected] => 2002
+    [file:protected] => /Users/subarna/Sites/CS401/Dao.php
+    [line:protected] => 16
+    [trace:Exception:private] => Array
+        (
+            [0] => Array
+                (
+                    [file] => /Users/subarna/Sites/CS401/Dao.php
+                    [line] => 16
+                    [function] => __construct
+                    [class] => PDO
+                    [type] => ->
+                    [args] => Array
+                        (
+                            [0] => mysql:host=localhost;dbname=bazzar
+                            [1] => subarna
+                            [2] => Sj@9845500150
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [file] => /Users/subarna/Sites/CS401/Dao.php
+                    [line] => 34
+                    [function] => getConnection
+                    [class] => Dao
+                    [type] => ->
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [file] => /Users/subarna/Sites/CS401/account_validation.php
+                    [line] => 22
+                    [function] => saveUser
+                    [class] => Dao
+                    [type] => ->
+                    [args] => Array
+                        (
+                            [0] => subarna
+                            [1] => joshi
+                            [2] => subarnajoshi@u.boisestate.edu
+                            [3] => as
+                            [4] => 
+                        )
+
+                )
+
+        )
+
+    [previous:Exception:private] => 
+    [errorInfo] => 
+)
+ 
+now - INFO  --> creating User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - ERROR --> Dao::getConnection The database exploded PDOException Object
+(
+    [message:protected] => SQLSTATE[HY000] [2002] No such file or directory
+    [string:Exception:private] => 
+    [code:protected] => 2002
+    [file:protected] => /Users/subarna/Sites/CS401/Dao.php
+    [line:protected] => 16
+    [trace:Exception:private] => Array
+        (
+            [0] => Array
+                (
+                    [file] => /Users/subarna/Sites/CS401/Dao.php
+                    [line] => 16
+                    [function] => __construct
+                    [class] => PDO
+                    [type] => ->
+                    [args] => Array
+                        (
+                            [0] => mysql:host=localhost;dbname=bazzar
+                            [1] => subarna
+                            [2] => Sj@9845500150
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [file] => /Users/subarna/Sites/CS401/Dao.php
+                    [line] => 34
+                    [function] => getConnection
+                    [class] => Dao
+                    [type] => ->
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [file] => /Users/subarna/Sites/CS401/account_validation.php
+                    [line] => 22
+                    [function] => saveUser
+                    [class] => Dao
+                    [type] => ->
+                    [args] => Array
+                        (
+                            [0] => subarna
+                            [1] => joshi
+                            [2] => subarnajoshi@u.boisestate.edu
+                            [3] => as
+                            [4] => 
+                        )
+
+                )
+
+        )
+
+    [previous:Exception:private] => 
+    [errorInfo] => 
+)
+ 
+now - INFO  --> creating User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - ERROR --> Dao::getConnection The database exploded PDOException Object
+(
+    [message:protected] => SQLSTATE[HY000] [2002] No such file or directory
+    [string:Exception:private] => 
+    [code:protected] => 2002
+    [file:protected] => /Users/subarna/Sites/CS401/Dao.php
+    [line:protected] => 16
+    [trace:Exception:private] => Array
+        (
+            [0] => Array
+                (
+                    [file] => /Users/subarna/Sites/CS401/Dao.php
+                    [line] => 16
+                    [function] => __construct
+                    [class] => PDO
+                    [type] => ->
+                    [args] => Array
+                        (
+                            [0] => mysql:host=localhost;dbname=bazzar
+                            [1] => subarna
+                            [2] => Sj@9845500150
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [file] => /Users/subarna/Sites/CS401/Dao.php
+                    [line] => 34
+                    [function] => getConnection
+                    [class] => Dao
+                    [type] => ->
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [file] => /Users/subarna/Sites/CS401/account_validation.php
+                    [line] => 22
+                    [function] => saveUser
+                    [class] => Dao
+                    [type] => ->
+                    [args] => Array
+                        (
+                            [0] => subarna
+                            [1] => joshi
+                            [2] => subarnajoshi@u.boisestate.edu
+                            [3] => asd
+                            [4] => 
+                        )
+
+                )
+
+        )
+
+    [previous:Exception:private] => 
+    [errorInfo] => 
+)
+ 
+now - INFO  --> creating User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - ERROR --> Dao::getConnection The database exploded PDOException Object
+(
+    [message:protected] => SQLSTATE[HY000] [2002] No such file or directory
+    [string:Exception:private] => 
+    [code:protected] => 2002
+    [file:protected] => /Users/subarna/Sites/CS401/Dao.php
+    [line:protected] => 16
+    [trace:Exception:private] => Array
+        (
+            [0] => Array
+                (
+                    [file] => /Users/subarna/Sites/CS401/Dao.php
+                    [line] => 16
+                    [function] => __construct
+                    [class] => PDO
+                    [type] => ->
+                    [args] => Array
+                        (
+                            [0] => mysql:host=localhost;dbname=bazzar
+                            [1] => subarna
+                            [2] => Sj@9845500150
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [file] => /Users/subarna/Sites/CS401/Dao.php
+                    [line] => 34
+                    [function] => getConnection
+                    [class] => Dao
+                    [type] => ->
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [file] => /Users/subarna/Sites/CS401/account_validation.php
+                    [line] => 22
+                    [function] => saveUser
+                    [class] => Dao
+                    [type] => ->
+                    [args] => Array
+                        (
+                            [0] => subarna
+                            [1] => joshi
+                            [2] => subarnajoshi@u.boisestate.edu
+                            [3] => asd
+                            [4] => 
+                        )
+
+                )
+
+        )
+
+    [previous:Exception:private] => 
+    [errorInfo] => 
+)
+ 
+now - INFO  --> creating User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - ERROR --> Dao::getConnection The database exploded PDOException Object
+(
+    [message:protected] => SQLSTATE[HY000] [2054] The server requested authentication method unknown to the client
+    [string:Exception:private] => 
+    [code:protected] => 2054
+    [file:protected] => /Users/subarna/Sites/CS401/Dao.php
+    [line:protected] => 16
+    [trace:Exception:private] => Array
+        (
+            [0] => Array
+                (
+                    [file] => /Users/subarna/Sites/CS401/Dao.php
+                    [line] => 16
+                    [function] => __construct
+                    [class] => PDO
+                    [type] => ->
+                    [args] => Array
+                        (
+                            [0] => mysql:host=localhost;dbname=bazzar
+                            [1] => subarna
+                            [2] => Sj@9845500150
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [file] => /Users/subarna/Sites/CS401/Dao.php
+                    [line] => 34
+                    [function] => getConnection
+                    [class] => Dao
+                    [type] => ->
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [file] => /Users/subarna/Sites/CS401/account_validation.php
+                    [line] => 22
+                    [function] => saveUser
+                    [class] => Dao
+                    [type] => ->
+                    [args] => Array
+                        (
+                            [0] => subarna
+                            [1] => joshi
+                            [2] => subarnajoshi@u.boisestate.edu
+                            [3] => asdf
+                            [4] => 
+                        )
+
+                )
+
+        )
+
+    [previous:Exception:private] => PDOException Object
+        (
+            [message:protected] => PDO::__construct(): The server requested authentication method unknown to the client [caching_sha2_password]
+            [string:Exception:private] => 
+            [code:protected] => 0
+            [file:protected] => /Users/subarna/Sites/CS401/Dao.php
+            [line:protected] => 16
+            [trace:Exception:private] => Array
+                (
+                    [0] => Array
+                        (
+                            [file] => /Users/subarna/Sites/CS401/Dao.php
+                            [line] => 16
+                            [function] => __construct
+                            [class] => PDO
+                            [type] => ->
+                            [args] => Array
+                                (
+                                    [0] => mysql:host=localhost;dbname=bazzar
+                                    [1] => subarna
+                                    [2] => Sj@9845500150
+                                )
+
+                        )
+
+                    [1] => Array
+                        (
+                            [file] => /Users/subarna/Sites/CS401/Dao.php
+                            [line] => 34
+                            [function] => getConnection
+                            [class] => Dao
+                            [type] => ->
+                            [args] => Array
+                                (
+                                )
+
+                        )
+
+                    [2] => Array
+                        (
+                            [file] => /Users/subarna/Sites/CS401/account_validation.php
+                            [line] => 22
+                            [function] => saveUser
+                            [class] => Dao
+                            [type] => ->
+                            [args] => Array
+                                (
+                                    [0] => subarna
+                                    [1] => joshi
+                                    [2] => subarnajoshi@u.boisestate.edu
+                                    [3] => asdf
+                                    [4] => 
+                                )
+
+                        )
+
+                )
+
+            [previous:Exception:private] => 
+            [errorInfo] => 
+            [severity] => 2
+        )
+
+    [errorInfo] => 
+)
+ 
+now - INFO  --> creating User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> creating User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> creating User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> creating User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> creating User [] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> creating User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> creating User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> creating User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> creating User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> creating User [] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> creating User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> creating User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> creating User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> creating User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> creating User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> creating User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> creating User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [alexas@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [alexas@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> creating User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [alex@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> creating User [alex@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> creating User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> creating User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> creating User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarna@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> creating User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [hdgdggdg@hdhgd.sd] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [shreakas@isu.asd] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [adam@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> creating User [adam@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [alexas@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [adam@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> getting password [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [adam@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> getting password [adam@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [hdgdggdg@hdhgd.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> getting password [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> getting password [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> getting password [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> getting password [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> getting password [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> getting password [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> getting password [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> getting password [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> getting password [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> getting password [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [philjohn@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> creating User [philjohn@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [alexhunter@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> creating User [alexhunter@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> creating User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> getting password [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> getting password [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> getting password [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> getting password [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> getting password [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> getting password [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> getting password [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> getting password [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> getting password [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> getting password [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> getting password [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> getting password [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> getting password [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> getting password [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> getting password [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> creating User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> creating User [xbox one] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> creating User [xbox one] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> creating User [xbox one] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> creating User [jeans] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> creating User [white xbox 360] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> creating User [tshirt] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> creating User [toyota camry] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [adam@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> getting password [adam@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [adam@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> creating User [macbook pro 2017] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [philjohn@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> getting password [philjohn@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [philjohn@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> creating User [xbox] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> creating User [xbox one] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> creating User [xbox one] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [kevin@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> creating User [kevin@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [kevin@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> getting password [kevin@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [kevin@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> creating User [t-shirt] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> getting password [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> creating User [toyota camry] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> creating User [macbook pro 2017] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> getting password [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> getting password [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> getting password [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [adam@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> getting password [adam@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [adam@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [hitsac0@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> creating User [hitsac0@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [hitsac0@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> getting password [hitsac0@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [hitsac0@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> getting password [hitsac0@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [hitsac0@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> creating User [bike] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> creating User [computer] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> creating User [computer] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> creating User [ps4] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> creating User [iphone] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> creating User [xbox one] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> creating User [ps4] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> getting password [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> getting password [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> getting password [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> getting password [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> getting password [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> getting password [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> getting password [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> getting password [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> getting password [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> getting password [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> creating User [shoe] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - ERROR --> Dao::getConnection The database exploded PDOException Object
+(
+    [message:protected] => SQLSTATE[HY000] [2002] Connection refused
+    [string:Exception:private] => 
+    [code:protected] => 2002
+    [file:protected] => /Users/subarna/Sites/CS401/Dao.php
+    [line:protected] => 16
+    [trace:Exception:private] => Array
+        (
+            [0] => Array
+                (
+                    [file] => /Users/subarna/Sites/CS401/Dao.php
+                    [line] => 16
+                    [function] => __construct
+                    [class] => PDO
+                    [type] => ->
+                    [args] => Array
+                        (
+                            [0] => mysql:host=localhost;dbname=bazzar
+                            [1] => root
+                            [2] => Sj@9845500150
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [file] => /Users/subarna/Sites/CS401/Dao.php
+                    [line] => 26
+                    [function] => getConnection
+                    [class] => Dao
+                    [type] => ->
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [file] => /Users/subarna/Sites/CS401/signup.php
+                    [line] => 78
+                    [function] => getUser
+                    [class] => Dao
+                    [type] => ->
+                    [args] => Array
+                        (
+                            [0] => 
+                        )
+
+                )
+
+        )
+
+    [previous:Exception:private] => 
+    [errorInfo] => 
+)
+ 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - ERROR --> Dao::getConnection The database exploded PDOException Object
+(
+    [message:protected] => SQLSTATE[HY000] [2002] Connection refused
+    [string:Exception:private] => 
+    [code:protected] => 2002
+    [file:protected] => /Users/subarna/Sites/CS401/Dao.php
+    [line:protected] => 16
+    [trace:Exception:private] => Array
+        (
+            [0] => Array
+                (
+                    [file] => /Users/subarna/Sites/CS401/Dao.php
+                    [line] => 16
+                    [function] => __construct
+                    [class] => PDO
+                    [type] => ->
+                    [args] => Array
+                        (
+                            [0] => mysql:host=localhost;dbname=bazzar
+                            [1] => root
+                            [2] => Sj@9845500150
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [file] => /Users/subarna/Sites/CS401/Dao.php
+                    [line] => 26
+                    [function] => getConnection
+                    [class] => Dao
+                    [type] => ->
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [file] => /Users/subarna/Sites/CS401/signup.php
+                    [line] => 78
+                    [function] => getUser
+                    [class] => Dao
+                    [type] => ->
+                    [args] => Array
+                        (
+                            [0] => 
+                        )
+
+                )
+
+        )
+
+    [previous:Exception:private] => 
+    [errorInfo] => 
+)
+ 
+now - WARN  --> getting User [ajay@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - ERROR --> Dao::getConnection The database exploded PDOException Object
+(
+    [message:protected] => SQLSTATE[HY000] [2002] Connection refused
+    [string:Exception:private] => 
+    [code:protected] => 2002
+    [file:protected] => /Users/subarna/Sites/CS401/Dao.php
+    [line:protected] => 16
+    [trace:Exception:private] => Array
+        (
+            [0] => Array
+                (
+                    [file] => /Users/subarna/Sites/CS401/Dao.php
+                    [line] => 16
+                    [function] => __construct
+                    [class] => PDO
+                    [type] => ->
+                    [args] => Array
+                        (
+                            [0] => mysql:host=localhost;dbname=bazzar
+                            [1] => root
+                            [2] => Sj@9845500150
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [file] => /Users/subarna/Sites/CS401/Dao.php
+                    [line] => 26
+                    [function] => getConnection
+                    [class] => Dao
+                    [type] => ->
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [file] => /Users/subarna/Sites/CS401/account_validation.php
+                    [line] => 112
+                    [function] => getUser
+                    [class] => Dao
+                    [type] => ->
+                    [args] => Array
+                        (
+                            [0] => ajay@gmail.com
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [file] => /Users/subarna/Sites/CS401/account_validation.php
+                    [line] => 60
+                    [function] => exist_email
+                    [args] => Array
+                        (
+                            [0] => ajay@gmail.com
+                        )
+
+                )
+
+            [4] => Array
+                (
+                    [file] => /Users/subarna/Sites/CS401/account_validation.php
+                    [line] => 14
+                    [function] => validate_email
+                    [args] => Array
+                        (
+                            [0] => ajay@gmail.com
+                        )
+
+                )
+
+        )
+
+    [previous:Exception:private] => 
+    [errorInfo] => 
+)
+ 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - ERROR --> Dao::getConnection The database exploded PDOException Object
+(
+    [message:protected] => SQLSTATE[HY000] [2002] Connection refused
+    [string:Exception:private] => 
+    [code:protected] => 2002
+    [file:protected] => /Users/subarna/Sites/CS401/Dao.php
+    [line:protected] => 16
+    [trace:Exception:private] => Array
+        (
+            [0] => Array
+                (
+                    [file] => /Users/subarna/Sites/CS401/Dao.php
+                    [line] => 16
+                    [function] => __construct
+                    [class] => PDO
+                    [type] => ->
+                    [args] => Array
+                        (
+                            [0] => mysql:host=localhost;dbname=bazzar
+                            [1] => root
+                            [2] => Sj@9845500150
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [file] => /Users/subarna/Sites/CS401/Dao.php
+                    [line] => 26
+                    [function] => getConnection
+                    [class] => Dao
+                    [type] => ->
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [file] => /Users/subarna/Sites/CS401/signup.php
+                    [line] => 78
+                    [function] => getUser
+                    [class] => Dao
+                    [type] => ->
+                    [args] => Array
+                        (
+                            [0] => 
+                        )
+
+                )
+
+        )
+
+    [previous:Exception:private] => 
+    [errorInfo] => 
+)
+ 
+now - WARN  --> getting User [ajay@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - ERROR --> Dao::getConnection The database exploded PDOException Object
+(
+    [message:protected] => SQLSTATE[HY000] [2002] Connection refused
+    [string:Exception:private] => 
+    [code:protected] => 2002
+    [file:protected] => /Users/subarna/Sites/CS401/Dao.php
+    [line:protected] => 16
+    [trace:Exception:private] => Array
+        (
+            [0] => Array
+                (
+                    [file] => /Users/subarna/Sites/CS401/Dao.php
+                    [line] => 16
+                    [function] => __construct
+                    [class] => PDO
+                    [type] => ->
+                    [args] => Array
+                        (
+                            [0] => mysql:host=localhost;dbname=bazzar
+                            [1] => root
+                            [2] => Sj@9845500150
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [file] => /Users/subarna/Sites/CS401/Dao.php
+                    [line] => 26
+                    [function] => getConnection
+                    [class] => Dao
+                    [type] => ->
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [file] => /Users/subarna/Sites/CS401/account_validation.php
+                    [line] => 112
+                    [function] => getUser
+                    [class] => Dao
+                    [type] => ->
+                    [args] => Array
+                        (
+                            [0] => ajay@gmail.com
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [file] => /Users/subarna/Sites/CS401/account_validation.php
+                    [line] => 60
+                    [function] => exist_email
+                    [args] => Array
+                        (
+                            [0] => ajay@gmail.com
+                        )
+
+                )
+
+            [4] => Array
+                (
+                    [file] => /Users/subarna/Sites/CS401/account_validation.php
+                    [line] => 14
+                    [function] => validate_email
+                    [args] => Array
+                        (
+                            [0] => ajay@gmail.com
+                        )
+
+                )
+
+        )
+
+    [previous:Exception:private] => 
+    [errorInfo] => 
+)
+ 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - ERROR --> Dao::getConnection The database exploded PDOException Object
+(
+    [message:protected] => SQLSTATE[HY000] [2002] Connection refused
+    [string:Exception:private] => 
+    [code:protected] => 2002
+    [file:protected] => /Users/subarna/Sites/CS401/Dao.php
+    [line:protected] => 16
+    [trace:Exception:private] => Array
+        (
+            [0] => Array
+                (
+                    [file] => /Users/subarna/Sites/CS401/Dao.php
+                    [line] => 16
+                    [function] => __construct
+                    [class] => PDO
+                    [type] => ->
+                    [args] => Array
+                        (
+                            [0] => mysql:host=localhost;dbname=bazzar
+                            [1] => root
+                            [2] => Sj@9845500150
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [file] => /Users/subarna/Sites/CS401/Dao.php
+                    [line] => 26
+                    [function] => getConnection
+                    [class] => Dao
+                    [type] => ->
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [file] => /Users/subarna/Sites/CS401/account_validation.php
+                    [line] => 112
+                    [function] => getUser
+                    [class] => Dao
+                    [type] => ->
+                    [args] => Array
+                        (
+                            [0] => subarnajoshi@u.boisestate.edu
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [file] => /Users/subarna/Sites/CS401/account_validation.php
+                    [line] => 60
+                    [function] => exist_email
+                    [args] => Array
+                        (
+                            [0] => subarnajoshi@u.boisestate.edu
+                        )
+
+                )
+
+            [4] => Array
+                (
+                    [file] => /Users/subarna/Sites/CS401/account_validation.php
+                    [line] => 14
+                    [function] => validate_email
+                    [args] => Array
+                        (
+                            [0] => subarnajoshi@u.boisestate.edu
+                        )
+
+                )
+
+        )
+
+    [previous:Exception:private] => 
+    [errorInfo] => 
+)
+ 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - ERROR --> Dao::getConnection The database exploded PDOException Object
+(
+    [message:protected] => SQLSTATE[HY000] [2054] The server requested authentication method unknown to the client
+    [string:Exception:private] => 
+    [code:protected] => 2054
+    [file:protected] => /Users/subarna/Sites/CS401/Dao.php
+    [line:protected] => 16
+    [trace:Exception:private] => Array
+        (
+            [0] => Array
+                (
+                    [file] => /Users/subarna/Sites/CS401/Dao.php
+                    [line] => 16
+                    [function] => __construct
+                    [class] => PDO
+                    [type] => ->
+                    [args] => Array
+                        (
+                            [0] => mysql:host=localhost;dbname=bazzar
+                            [1] => root
+                            [2] => joshi
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [file] => /Users/subarna/Sites/CS401/Dao.php
+                    [line] => 26
+                    [function] => getConnection
+                    [class] => Dao
+                    [type] => ->
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [file] => /Users/subarna/Sites/CS401/account_validation.php
+                    [line] => 112
+                    [function] => getUser
+                    [class] => Dao
+                    [type] => ->
+                    [args] => Array
+                        (
+                            [0] => subarnajoshi@u.boisestate.edu
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [file] => /Users/subarna/Sites/CS401/account_validation.php
+                    [line] => 60
+                    [function] => exist_email
+                    [args] => Array
+                        (
+                            [0] => subarnajoshi@u.boisestate.edu
+                        )
+
+                )
+
+            [4] => Array
+                (
+                    [file] => /Users/subarna/Sites/CS401/account_validation.php
+                    [line] => 14
+                    [function] => validate_email
+                    [args] => Array
+                        (
+                            [0] => subarnajoshi@u.boisestate.edu
+                        )
+
+                )
+
+        )
+
+    [previous:Exception:private] => PDOException Object
+        (
+            [message:protected] => PDO::__construct(): The server requested authentication method unknown to the client [caching_sha2_password]
+            [string:Exception:private] => 
+            [code:protected] => 0
+            [file:protected] => /Users/subarna/Sites/CS401/Dao.php
+            [line:protected] => 16
+            [trace:Exception:private] => Array
+                (
+                    [0] => Array
+                        (
+                            [file] => /Users/subarna/Sites/CS401/Dao.php
+                            [line] => 16
+                            [function] => __construct
+                            [class] => PDO
+                            [type] => ->
+                            [args] => Array
+                                (
+                                    [0] => mysql:host=localhost;dbname=bazzar
+                                    [1] => root
+                                    [2] => joshi
+                                )
+
+                        )
+
+                    [1] => Array
+                        (
+                            [file] => /Users/subarna/Sites/CS401/Dao.php
+                            [line] => 26
+                            [function] => getConnection
+                            [class] => Dao
+                            [type] => ->
+                            [args] => Array
+                                (
+                                )
+
+                        )
+
+                    [2] => Array
+                        (
+                            [file] => /Users/subarna/Sites/CS401/account_validation.php
+                            [line] => 112
+                            [function] => getUser
+                            [class] => Dao
+                            [type] => ->
+                            [args] => Array
+                                (
+                                    [0] => subarnajoshi@u.boisestate.edu
+                                )
+
+                        )
+
+                    [3] => Array
+                        (
+                            [file] => /Users/subarna/Sites/CS401/account_validation.php
+                            [line] => 60
+                            [function] => exist_email
+                            [args] => Array
+                                (
+                                    [0] => subarnajoshi@u.boisestate.edu
+                                )
+
+                        )
+
+                    [4] => Array
+                        (
+                            [file] => /Users/subarna/Sites/CS401/account_validation.php
+                            [line] => 14
+                            [function] => validate_email
+                            [args] => Array
+                                (
+                                    [0] => subarnajoshi@u.boisestate.edu
+                                )
+
+                        )
+
+                )
+
+            [previous:Exception:private] => 
+            [errorInfo] => 
+            [severity] => 2
+        )
+
+    [errorInfo] => 
+)
+ 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - ERROR --> Dao::getConnection The database exploded PDOException Object
+(
+    [message:protected] => SQLSTATE[HY000] [2054] The server requested authentication method unknown to the client
+    [string:Exception:private] => 
+    [code:protected] => 2054
+    [file:protected] => /Users/subarna/Sites/CS401/Dao.php
+    [line:protected] => 16
+    [trace:Exception:private] => Array
+        (
+            [0] => Array
+                (
+                    [file] => /Users/subarna/Sites/CS401/Dao.php
+                    [line] => 16
+                    [function] => __construct
+                    [class] => PDO
+                    [type] => ->
+                    [args] => Array
+                        (
+                            [0] => mysql:host=localhost;dbname=bazzar
+                            [1] => root
+                            [2] => joshi
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [file] => /Users/subarna/Sites/CS401/Dao.php
+                    [line] => 26
+                    [function] => getConnection
+                    [class] => Dao
+                    [type] => ->
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [file] => /Users/subarna/Sites/CS401/account_validation.php
+                    [line] => 112
+                    [function] => getUser
+                    [class] => Dao
+                    [type] => ->
+                    [args] => Array
+                        (
+                            [0] => subarnajoshi@u.boisestate.edu
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [file] => /Users/subarna/Sites/CS401/account_validation.php
+                    [line] => 60
+                    [function] => exist_email
+                    [args] => Array
+                        (
+                            [0] => subarnajoshi@u.boisestate.edu
+                        )
+
+                )
+
+            [4] => Array
+                (
+                    [file] => /Users/subarna/Sites/CS401/account_validation.php
+                    [line] => 14
+                    [function] => validate_email
+                    [args] => Array
+                        (
+                            [0] => subarnajoshi@u.boisestate.edu
+                        )
+
+                )
+
+        )
+
+    [previous:Exception:private] => PDOException Object
+        (
+            [message:protected] => PDO::__construct(): The server requested authentication method unknown to the client [caching_sha2_password]
+            [string:Exception:private] => 
+            [code:protected] => 0
+            [file:protected] => /Users/subarna/Sites/CS401/Dao.php
+            [line:protected] => 16
+            [trace:Exception:private] => Array
+                (
+                    [0] => Array
+                        (
+                            [file] => /Users/subarna/Sites/CS401/Dao.php
+                            [line] => 16
+                            [function] => __construct
+                            [class] => PDO
+                            [type] => ->
+                            [args] => Array
+                                (
+                                    [0] => mysql:host=localhost;dbname=bazzar
+                                    [1] => root
+                                    [2] => joshi
+                                )
+
+                        )
+
+                    [1] => Array
+                        (
+                            [file] => /Users/subarna/Sites/CS401/Dao.php
+                            [line] => 26
+                            [function] => getConnection
+                            [class] => Dao
+                            [type] => ->
+                            [args] => Array
+                                (
+                                )
+
+                        )
+
+                    [2] => Array
+                        (
+                            [file] => /Users/subarna/Sites/CS401/account_validation.php
+                            [line] => 112
+                            [function] => getUser
+                            [class] => Dao
+                            [type] => ->
+                            [args] => Array
+                                (
+                                    [0] => subarnajoshi@u.boisestate.edu
+                                )
+
+                        )
+
+                    [3] => Array
+                        (
+                            [file] => /Users/subarna/Sites/CS401/account_validation.php
+                            [line] => 60
+                            [function] => exist_email
+                            [args] => Array
+                                (
+                                    [0] => subarnajoshi@u.boisestate.edu
+                                )
+
+                        )
+
+                    [4] => Array
+                        (
+                            [file] => /Users/subarna/Sites/CS401/account_validation.php
+                            [line] => 14
+                            [function] => validate_email
+                            [args] => Array
+                                (
+                                    [0] => subarnajoshi@u.boisestate.edu
+                                )
+
+                        )
+
+                )
+
+            [previous:Exception:private] => 
+            [errorInfo] => 
+            [severity] => 2
+        )
+
+    [errorInfo] => 
+)
+ 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> creating User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarna@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [alex@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> creating User [alex@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [ram@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> creating User [ram@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> getting password [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> creating User [xbox] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> creating User [limited edition xbox one] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> creating User [t-shirt] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> creating User [Nike air max] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [alex@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> getting password [alex@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [alex@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> creating User [levis pants] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> creating User [toyota camry] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> creating User [xbox one] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> getting password [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> getting password [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [kiran@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> creating User [kiran@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [kiran@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> getting password [kiran@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [kiran@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> getting password [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> creating User [xbox one] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [xbox] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [xbox] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [xbox] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [xbox] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [kiran@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> getting password [kiran@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [kiran@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> getting password [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [binod@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> creating User [binod@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [binod@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> getting password [binod@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [binod@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> creating User [xbox] 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [kiran@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> getting password [kiran@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [kiran@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> getting password [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [alex@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [alex@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> getting password [alex@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [alex@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [albert@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> creating User [albert@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [albert@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> getting password [albert@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [albert@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [ram@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [raman@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> creating User [raman@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [raman@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> getting password [raman@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [raman@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [albert@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> getting password [albert@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [albert@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [albert@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> getting password [albert@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [albert@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [albert@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> getting password [albert@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [albert@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [albert@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> getting password [albert@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [albert@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [albert@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> getting password [albert@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [albert@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [albert@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> getting password [albert@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [albert@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarna@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> getting password [subarna@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarna@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarna@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarna@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarna@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [bibek@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> creating User [bibek@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarna@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> getting password [subarna@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarna@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [bibek@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> getting password [bibek@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [bibek@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [bibek@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> getting password [bibek@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [bibek@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarna@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> getting password [subarna@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarna@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> getting password [subarna@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarna@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> getting password [subarna@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarna@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarna@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> getting password [subarna@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarna@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarna@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarna@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarna@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> getting password [subarna@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarna@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> getting password [subarna@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarna@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarna@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> getting password [subarna@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarna@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarna@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> getting password [subarna@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarna@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [sachit@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> creating User [sachit@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [sachit@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> getting password [sachit@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [sachit@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarna@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> getting password [subarna@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarna@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [nabin@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [nabin@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> creating User [nabin@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [nabin@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> getting password [nabin@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [nabin@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarna@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> getting password [subarna@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarna@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarna@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> getting password [subarna@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarna@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [albert@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> getting password [albert@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [albert@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarna@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> getting password [subarna@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarna@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [kevin@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> creating User [kevin@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [kevin@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> creating User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [albert@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [axxax@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [xafdaaf@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subaafaf@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [sushi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [aafaf@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarna@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> getting password [subarna@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarna@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> getting password [subarna@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarna@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [albertad@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshadai@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarna12@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarna12@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [qsqsq@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> getting password [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> getting password [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> getting password [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> getting password [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> getting password [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [suba@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> getting password [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajo@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> getting password [subarnajoshi@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarnajo@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarna@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> getting password [subarna@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarna@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> creating User [ps4] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> creating User [turtle] 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> creating User [turtle] 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> creating User [dog] 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> creating User [watch] 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> creating User [football] 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> creating User [football] 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> creating User [medarma] 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> creating User [sofa] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> creating User [coffee table] 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> creating User [watch] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> creating User [bicylce] 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [karki@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [karki@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> creating User [karki@gmail.com] 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> getting password [subarna@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> getting password [subarna@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> getting password [subarna@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarna@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> getting password [subarna@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - WARN  --> getting User [subarna@u.boisestate.edu] 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> creating User [yaris] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> creating User [subarna joshi] 
+now - DEBUG --> Getting a connection. 
+now - INFO  --> creating User [xbox one] 
+now - DEBUG --> Getting a connection. 
